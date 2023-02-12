@@ -1,4 +1,4 @@
-# TheSurfer-SDK
+# TheSurfer SDK
 
 This SDK will help you get set up with the Surfer platform.
 
